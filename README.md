@@ -9,8 +9,8 @@ The key differences between types of ride-sharing among city types:
 -The total fares fares are highest in urban cities and lowest in rural cities
 -the ride fare is the highest in rural cities and lowest in urban cities.
 -the fare by driver is highest in rural areas and lowest in urban areas.
--The suburban cities have always been in the middle between the rural cities and urban cities in all the indicators represented in the snapshot.(link: Summary of df)
--The urban areas have scored the highest total fare from January 2019 to april 2019, the urban areas have scored the lowest total fare during the same period of time and finally the suburabn has always been in the middle between urban and rural areas. (link to Pyber_fare_summary.png)
+-The suburban cities have always been in the middle between the rural cities and urban cities in all the indicators represented in the snapshot.(link: https://github.com/mdabbous88/PyBer_Analysis/blob/main/Summary%20of%20df.png)
+-The urban areas have scored the highest total fare from January 2019 to april 2019, the urban areas have scored the lowest total fare during the same period of time and finally the suburabn has always been in the middle between urban and rural areas. (link:https://github.com/mdabbous88/PyBer_Analysis/blob/main/analysis/PyBer_fare_summary.png)
 
 ##Summary
 Three main recommendations can be concluded from the above analysis:
