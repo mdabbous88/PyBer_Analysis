@@ -1,8 +1,10 @@
 # PyBer_Analysis
-##Overview of the analysis
+
+## Overview of the analysis
+
 PyBer company is conducting an analysis on data collected to examine the relation between different city type(urban, rural and suburban) and the number of drivers and riders, as well as the percentage of total fares riders and drivers by type of city. Analysis is to be concducted and visualizations are to be produced.
 
-##Results
+## Results
 The key differences between types of ride-sharing among city types:
 *Urban cities have the highest total rides whereas the rural cities have the lowest total rides.
 
@@ -14,12 +16,12 @@ The key differences between types of ride-sharing among city types:
 
 *The fare by driver is highest in rural areas and lowest in urban areas.
 
-*The suburban cities have always been in the middle between the rural cities and urban cities in all the indicators represented in the snapshot.(link: 
-https://github.com/mdabbous88/PyBer_Analysis/blob/main/Summary%20of%20df.png)
+*The suburban cities have always been in the middle between the rural cities and urban cities in all the indicators represented in the snapshot.
+![](https://github.com/mdabbous88/PyBer_Analysis/blob/main/Summary%20of%20df.png)
 
-*The urban areas have scored the highest total fare from January 2019 to april 2019, the urban areas have scored the lowest total fare during the same period of time and finally the suburabn has always been in the middle between urban and rural areas. (link:https://github.com/mdabbous88/PyBer_Analysis/blob/main/analysis/PyBer_fare_summary.png)
+*The urban areas have scored the highest total fare from January 2019 to april 2019, the urban areas have scored the lowest total fare during the same period of time and finally the suburabn has always been in the middle between urban and rural areas. ![](https://github.com/mdabbous88/PyBer_Analysis/blob/main/analysis/PyBer_fare_summary.png)
 
-##Summary
+## Summary
 Three main recommendations can be concluded from the above analysis:
 
 1-Urban areas have very high number of drivers 2405 and the total rides have been much less 1625 rides. This means that there is excess drivers in these areas, and the can be relocated to other city types.
